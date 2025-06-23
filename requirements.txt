@@ -1,0 +1,6 @@
+numpy==1.18.5
+scipy==1.4.1
+torch==1.13.0+cu117
+matplotlib==3.5.3
+scikit-learn==1.0.2
+nltk==3.9.1
