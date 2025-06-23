@@ -15,4 +15,4 @@ If you find our work can help your research, please cite our work! <br>
 ```
 
 ## Contact
-If you have any question, feel free to contact via [email](mailto:zkq_1999@163.com).
+If you have any question, feel free to contact via [email](zkq_1999@163.com).
